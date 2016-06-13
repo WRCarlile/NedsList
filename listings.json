@@ -1,0 +1,11 @@
+{
+  "listings": [{
+    "title": "Mountain Bike",
+    "category": "Bicycles",
+    "date": "6-10-16",
+    "price": "100",
+    "address": "555 Elm",
+    "contact": "example@gmail.com",
+    "text": "This bike is great"
+  }]
+}
